@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesbydinesh&label=Profile%20views&color=0e75b6&style=flat" alt="codesbydinesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesbydinesh" alt="codesbydinesh" /></a> </p
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesbydinesh" alt="codesbydinesh" /></a> </p>
 
 - I'm looking for job **Software Engineer**
 
 - Qualification [Diploma Civil Engineering(2022)](B.TECH IT()2025)
 
+- Location [Coimbatore 641025](Coimbatore 641025)
+
 - Contact Me **6379181369**
-  
-- Location **coimbatore 641025**
 
 - 📫 How to reach me **dineshbalajidce@gmail.com**
 
