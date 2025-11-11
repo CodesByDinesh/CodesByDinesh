@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesbydinesh" alt="codesbydinesh" /></a> </p>
 
-- I'm looking for job **Software Engineer**
+- I'm looking for job **Web Developer**
 
 - Qualification [Diploma Civil Engineering(2022)](B.TECH IT()2025)
 
