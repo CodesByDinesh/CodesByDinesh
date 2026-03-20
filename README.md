@@ -1,24 +1,38 @@
 # Hi 👋, I'm Dinesh Balaji
 
-💻 Aspiring Full Stack Web Developer  
-🚀 Passionate about building clean & user-friendly web apps  
-📍 Coimbatore, India  
+💻 Full Stack Developer | 🎨 UI/UX Designer  
+🚀 Building modern, responsive & user-focused web applications  
+📍 Coimbatore, India   
 
 ---
 
+
 ## 👨‍💻 About Me
-- 🎓 B.Tech IT (2025)
-- 🌱 Currently learning Django & Full Stack Development
-- 🔍 Looking for Web Developer opportunities
-- ⚡ Strength: Quick learner & problem solver
+- 💡 Strong in both **Full Stack Development** and **UI/UX Design**
+- 🎯 Focused on creating **functional + visually appealing** applications
+- 🌱 Currently improving my skills in **Django, APIs & User Experience Design**
+- 🔍 Looking for opportunities as a **Web Developer / UI Designer**
+- ⚡ Strength: Creativity + Problem Solving + Clean Code
+
+## 🎓 Education & Certifications
+- 🎓 B.Tech – Information Technology (2025)
+- 🎓 Diploma – Civil Engineering (2022)
+- 💻 Python Full Stack Development (4 Months)  
+  📍 People Click Learning
 
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Django
-- Database: MySQL
+- Frontend: HTML, CSS, JavaScript, React JS
+- Backend: Python, Django
+- Database: MySQL, MongoDB
 - Tools: Git, GitHub
+### 🎨 UI/UX Design
+- Wireframing & Prototyping
+- User Interface Design
+- Responsive Web Design
+- User Experience (UX) Principles
+- Tools: Figma
 
 ---
 
@@ -36,5 +50,5 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@gmail.com
-- 🔗 LinkedIn: your-linkedin-link
+- 📧 Email: dineshbalajidce@gmail.com
+- 🔗 LinkedIn: inkedin.com/in/dineshbalaji-tech/
